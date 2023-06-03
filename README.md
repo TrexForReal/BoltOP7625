@@ -31,7 +31,7 @@
 
     <img src="https://github-profile-trophy.vercel.app/?username=BoltOP7625&theme=dracula">
 
-    <img src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=BoltOP7625&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
 
   </p>
 
