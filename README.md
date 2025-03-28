@@ -1,38 +1,13 @@
-### Hi there 👋
+Sure! Here's an updated version of your introduction that highlights your Discord account:
 
+---
 
+# 👋 Hi, I'm Divyansh Dwivedi (aka TrexReal)
 
+🌍 Based in Delhi | 🧑‍💻 15 years old | 🚀 Aspiring Computer Scientist
 
-- 🔭 I’m currently working on a **Discord Modification for Android**
-- 
-- 🌱 I’m currently learning **Python**
-- 
-- 👯 I’m looking to collaborate on a **discord token generator**
+---
 
-# Your Boy's Stats
+🔧 **Tech Savvy** | Passionate about coding and technology.
 
-<h2 align="center"> 🚀 My Stats 🚀</h2>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BoltOP7625&theme=tokyonight">
-
-</p>
-
-<details>
-
-  <summary>
-
-      Even more stats
-
-  </summary>
-
-  <p align="center">
-
-    <img src="https://github-profile-trophy.vercel.app/?username=BoltOP7625&theme=dracula">
-
-    <img src="https://github-readme-stats.vercel.app/api?username=BoltOP7625&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
-
-  </p>
-
-</details>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1243891680793595904)](https://discord.com/users/1243891680793595904)
