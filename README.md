@@ -1,4 +1,3 @@
-Sure! Here's an updated version of your introduction that highlights your Discord account:
 
 ---
 
